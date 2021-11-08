@@ -1,0 +1,19 @@
+{
+  "name": "304cem-musicbeat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annieooijiayi/304CEM-MusicBeat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annieooijiayi/304CEM-MusicBeat/issues"
+  },
+  "homepage": "https://github.com/annieooijiayi/304CEM-MusicBeat#readme"
+}
