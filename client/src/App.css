@@ -1,0 +1,47 @@
+section{
+    background-color: black;
+}
+
+.card-body{
+    background-color: black;
+}
+
+.table-hover th {
+    color:white;
+}
+
+.table-hover tr {
+    color:white;
+}
+
+.table-hover tbody tr:hover{
+    background-color: whitesmoke;
+}
+
+.login-container{
+padding-top: 120px;
+padding-bottom: 120px;
+}
+
+.login{
+    width: 40%;
+    background: rgba(255, 255, 255, .8);
+    padding: 30px;
+    margin: auto;
+    transform: translateX(-50%, -50%);
+    border-radius: 40px;
+}
+
+.signup-container{
+    padding-top: 80px;
+    padding-bottom: 80px;
+    }
+
+.signup{
+    width: 45%;
+    background: rgba(255, 255, 255, .8);
+    padding: 30px;
+    transform: translateX(-50%, -50%);
+    border-radius: 40px;
+    margin: auto;
+  }
